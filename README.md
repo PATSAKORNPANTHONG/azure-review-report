@@ -13,6 +13,7 @@ This project contains an Azure Function App that automatically imports product r
 -   [**Setup Guide**](docs/SETUP.md): Instructions for setting up the project locally.
 -   [**Deployment Guide**](docs/DEPLOYMENT.md): Steps to deploy the Function App to Azure.
 -   [**Usage Guide**](docs/USAGE.md): How to trigger the function and verify the results.
+-   [**Testing Guide**](docs/TESTING.md): How to use `reviews.csv` for testing.
 
 ## Project Structure
 
@@ -21,6 +22,7 @@ This project contains an Azure Function App that automatically imports product r
 ├── docs/                   # Documentation
 │   ├── DEPLOYMENT.md
 │   ├── SETUP.md
+│   ├── TESTING.md
 │   └── USAGE.md
 ├── function_app.py         # Function logic
 ├── host.json               # Host configuration
