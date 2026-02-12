@@ -1,7 +1,6 @@
 import azure.functions as func
 import logging
 import os
-import csvpip
 import io
 import pymongo
 import certifi
